@@ -13,6 +13,6 @@ As fases do projeto podem ser visualizadas por meio dos links abaixo:
 
 [Análise Exploratória de Dados](https://htmlpreview.github.io/?https://github.com/Gleynner/Analise-de-Personalidade-de-Clientes---R/blob/main/Customer_Personality_Analysis-EDA.html)   
 
-[Análise de Componentes Principais](https://bit.ly/3ZVeoh2)   
+[Análise de Componentes Principais](https://htmlpreview.github.io/?https://github.com/Gleynner/Analise-de-Personalidade-de-Clientes---R/blob/main/Customer_Personality_Analysis-PCA.html)   
 
-[Análise de Agrupamento](https://bit.ly/3DHCqok)       
+[Análise de Agrupamento](https://htmlpreview.github.io/?https://github.com/Gleynner/AnaliseDePersonalidadeDeClientesComR/blob/main/Customer_Personality_Analysis-K-Means.html)       
