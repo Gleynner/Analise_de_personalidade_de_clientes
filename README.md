@@ -11,7 +11,7 @@ O conjunto de dados contem informações detalhadas dos clientes, como, ano de n
 
 As fases do projeto podem ser visualizadas por meio dos links abaixo:
 
-[Análise Exploratória de Dados](https://bit.ly/3C7dRk5)   
+[Análise Exploratória de Dados](https://htmlpreview.github.io/?https://github.com/Gleynner/Analise-de-Personalidade-de-Clientes---R/blob/main/Customer_Personality_Analysis-EDA.html)   
 
 [Análise de Componentes Principais](https://bit.ly/3ZVeoh2)   
 
